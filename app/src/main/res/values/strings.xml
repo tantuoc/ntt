@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SServer</string>
+    <string name="action_settings">Settings</string>
+    <string name="them">Thêm</string>
+    <string name="msv">Mã HS</string>
+    <string name="ten">Tên HS</string>
+    <string name="dtoan">Điểm môn toán</string>
+    <string name="dly">Điểm môn lý</string>
+    <string name="dhoa">Điểm môn hoá</string>
+
+</resources>
